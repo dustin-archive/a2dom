@@ -1,0 +1,22 @@
+{
+  "name": "a2dom",
+  "version": "0.1.0",
+  "description": "Create DOM nodes from arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whaaaley/a2dom.git"
+  },
+  "author": "Dustin Dowell <dustindowell22@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whaaaley/a2dom/issues"
+  },
+  "homepage": "https://github.com/whaaaley/a2dom#readme",
+  "devDependencies": {
+    "tape": "^4.7.0"
+  }
+}
